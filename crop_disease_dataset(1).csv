@@ -1,0 +1,31 @@
+Temperature (°C),Rainfall (mm),Crop Symptoms,Crop Type,Crop Disease
+29.4,112.3,Yellowing leaves,Rice,Bacterial Leaf Blight
+30.7,198.6,Brown spots,Wheat,Leaf Rust
+33.1,123.4,Stunted growth,Maize,Maize Streak Virus
+21.4,156.8,Wilted stems,Cotton,Fusarium Wilt
+35,89.2,Leaf curling,Soybean,Soybean Mosaic Virus
+25.3,142.9,White powdery residue,Barley,Powdery Mildew
+27.6,104,Black spots,Potato,Early Blight
+26.8,210.2,Mosaic pattern,Tomato,Tomato Mosaic Virus
+24,77.6,Root rot,Sugarcane,Red Rot
+36.2,115.8,Blotchy leaves,Peanut,Leaf Spot
+28.1,190.5,Cracked fruits,Banana,Banana Bunchy Top Virus
+32.3,67.8,Fungal patches,Apple,Apple Scab
+22.9,149.3,Deformed seeds,Chili,Anthracnose
+30.2,202.1,Shedding leaves,Cabbage,Black Rot
+27,135.9,Sticky residues,Onion,Purple Blotch
+25.8,100.4,Rust-colored leaves,Carrot,Alternaria Leaf Blight
+31.4,129.8,Blackened stems,Pumpkin,Gummy Stem Blight
+23.5,160.1,Stem lesions,Peas,Ascochyta Blight
+28.9,87.4,Premature fruit drop,Mango,Mango Anthracnose
+30.5,190.2,Poor germination,Papaya,Papaya Ringspot Virus
+25.6,120.3,Mottled leaves,Grapes,Powdery Mildew
+32.4,200.5,Leaf curling,Orange,Citrus Canker
+28.3,180,White powdery residue,Tea,Blister Blight
+22.1,75.8,Drooping plants,Coffee,Coffee Rust
+30,150.9,Sunken lesions,Lettuce,Bottom Rot
+26.7,220.4,Silvery leaves,Spinach,Downy Mildew
+34.2,99.3,Discolored roots,Broccoli,Clubroot
+23.8,156.5,Thickened stems,Cauliflower,Black Rot
+31.9,112.6,Hollow stems,Brinjal,Verticillium Wilt
+21.3,201.4,Pale foliage,Garlic,Basal Rot
